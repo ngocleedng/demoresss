@@ -13,5 +13,12 @@ namespace UnitTestProject1
         }
         private void sdsdsd()
         { }
+
+        public void newconso()
+        { }
+
+
+
+
     }
 }
